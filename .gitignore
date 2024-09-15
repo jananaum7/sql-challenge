@@ -1,0 +1,28 @@
+# IDE or editor folders
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.log
+
+# Database dump files
+*.sql
+*.bak
+
+# Environment-specific files
+.env
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Backup files
+*.bak
+*.orig
+*.swp
+
+# Compressed files
+*.zip
+*.tar.gz
+*.7z
