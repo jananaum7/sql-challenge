@@ -6,8 +6,7 @@
 *.tmp
 *.log
 
-# Database dump files
-*.sql
+# Database dump file
 *.bak
 
 # Environment-specific files
